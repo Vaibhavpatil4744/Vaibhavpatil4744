@@ -7,5 +7,5 @@
 - 💬 Ask me about Devops
 - 📫 How to reach me: https://www.linkedin.com/in/patil-vai/
 - 😄 Pronouns: Vaibhav
-- ⚡ Fun fact: happy to learn new Tech
+- ⚡ Fun fact: Happy to learn new Tech
 
