@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Devops
 - 📫 How to reach me: https://www.linkedin.com/in/patil-vai/
 - 😄 Pronouns: Vaibhav
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: happy to learn new Tech
 -->
